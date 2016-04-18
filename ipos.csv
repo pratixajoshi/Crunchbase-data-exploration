@@ -1,0 +1,51 @@
+name,country_code,company_state_code,region,city,stock_exchange_symbol,stock_symbol,went_public_on,price_usd,price,price_currency_code,cb_url,ipo_uuid,uuid
+Qunar.com,CHN,,Beijing,Beijing,NASDAQ,QUNR,2013-11-01,,,,https://www.crunchbase.com/organization/qunar-com,1b303591-3165-e86f-2bfd-4ae76772a066,17e90298-e3cb-b83c-feb2-0cbb6a27622c
+The Container Store,USA,TX,Dallas,Coppell,NYSE,TCS,2013-11-01,828862470,,,https://www.crunchbase.com/organization/the-container-store,d243ff6c-bbff-239f-216d-50aa0bb47506,0f41b6ae-de3d-7110-ba1d-159a894d522e
+The Container Store,USA,TX,Dallas,Coppell,,TCS,2013-11-01,,,,https://www.crunchbase.com/organization/the-container-store,78d3e309-0a38-6a6c-3786-1cc6a839bfb5,0f41b6ae-de3d-7110-ba1d-159a894d522e
+58.com,CHN,,CHN - Other,Chaoyang,NYSE,WUBA,2013-10-31,187000000,,,https://www.crunchbase.com/organization/58-com,f75c7310-44da-c0ab-d0e9-47798463af7e,2934f57c-f114-eecb-6902-6a4481ec392f
+Brixmor Property Group,USA,NY,New York City,New York,NYSE,BRX,2013-10-31,,,,https://www.crunchbase.com/organization/brixmor-property-group,dd3bb47d-9c71-ac23-7c98-75154ae00e20,1640febb-b884-7749-c15c-391348fdf9f7
+Brixmor Property Group,USA,NY,New York City,New York,NYSE,BRX,2013-10-31,,,,https://www.crunchbase.com/organization/brixmor-property-group,6ba841a0-3145-43b7-b03f-949d67d496db,1640febb-b884-7749-c15c-391348fdf9f7
+Essent Group,BMU,,Bermuda,Hamilton,NYSE,ESNT,2013-10-31,,,,https://www.crunchbase.com/organization/essent-group,8730ef19-a092-1eb0-bb17-b0763c2a699a,6701d36b-fd48-0024-f977-827801e89aa2
+Criteo,FRA,,Paris,Paris-l'hopital,NASDAQ,CRTO,2013-10-30,1700000000,,,https://www.crunchbase.com/organization/criteo,f3f4523a-369e-fb26-998e-76208e98a789,9f638203-0386-0266-081a-e40eebdde79e
+Surgical Care Affiliates,USA,AL,Birmingham,Birmingham,NASDAQ,SCAI,2013-10-30,,,,https://www.crunchbase.com/organization/surgical-care-affiliates,13c1c8c6-a9df-69c2-669d-ea5e174d5b2e,c3872313-7729-00d0-80e9-846c494404d1
+Veracyte,USA,CA,SF Bay Area,South San Francisco,,VCYT,2013-10-30,,,,https://www.crunchbase.com/organization/veracyte,d5dcec12-127d-61b7-a8db-2d42bba5f95e,0c247e85-1cd2-9457-5974-563d02e99bf9
+Aerie Pharmaceuticals,USA,NJ,Newark,Bedminster,,AERI,2013-10-25,,,,https://www.crunchbase.com/organization/aerie-pharmaceuticals,bbd7e3ac-0f3b-3118-8e37-8f1ab4653a5d,b859005a-2068-9968-0e9b-5e02f80ebd81
+CommScope,USA,TX,Dallas,Richardson,NASDAQ,COMM,2013-10-25,2784807450,,,https://www.crunchbase.com/organization/commscope-enterprise-solutions,b6b5decc-9742-d5cd-7a39-b587da517564,6e7213af-1151-0c25-e5d7-41bd51f66be8
+Endurance International,USA,MA,Boston,Burlington,NASDAQ,EIGI,2013-10-25,1514859792,,,https://www.crunchbase.com/organization/endurance-international,b62850d3-c7c9-fa29-a3c0-753475815ce3,b8098f51-76cd-e4c4-9f05-8bf4a6951ac4
+sprague resources,USA,NH,Portsmouth,Portsmouth,NYSE,SRLP,2013-10-25,,,,https://www.crunchbase.com/organization/sprague-resources,034f447b-885d-1bd5-18d6-ce4df92e43de,1233fa26-bd84-4b48-7ff1-2616896c61af
+Global Defense & National Security Systems,USA,DE,"Wilmington, Delaware",Wilmington,NASDAQ,GDEF,2013-10-24,,,,https://www.crunchbase.com/organization/global-defense-national-security-systems-inc,82b0135d-b72d-28e5-7f6b-19082729141f,0a4fcc93-005d-0029-831d-d72fc90d21bb
+GeoOp,NZL,,Auckland,Auckland,,GEO,2013-10-22,,,NZD,https://www.crunchbase.com/organization/geoop,7a8ee9e0-19f9-2b98-6155-063c5fd7f3eb,dfc52b36-c5b1-ba7e-953a-22e10ecfa114
+ADMA Biologics,USA,NJ,Newark,Ramsey,NASDAQ,ADMA,2013-10-18,,,,https://www.crunchbase.com/organization/adma-biologics,28625f2a-e664-2112-ad7f-0262e35bf773,ae9dfa40-07ce-c8f6-2948-0ddf84d0a16e
+Fasoo,USA,NJ,Newark,East Brunswick,TPE,150900,2013-10-18,,,,https://www.crunchbase.com/organization/fasoo,f1ed546a-2d70-cc8e-8c07-27b3ae396e25,45e13bca-9b85-813c-4ee8-40244fbcb438
+Voxeljet,USA,MI,Detroit,Canton,,VJET,2013-10-18,,,,https://www.crunchbase.com/organization/voxeljet,c7cdeee6-23c6-7c0b-2f22-1f15dcd71e8b,59279a41-60cd-9e29-ca3c-e16914bfb311
+Abengoa,ESP,,Seville,Seville,,ABGB,2013-10-17,,,,https://www.crunchbase.com/organization/abengoa,65f32eeb-2e2e-d551-11ab-6ce4d2385659,64bdc639-e632-5c24-2c1e-d04879e5c968
+Aclara Software,USA,MO,St. Louis,Hazelwood,NYSE,ESE,2013-10-17,,,,https://www.crunchbase.com/organization/aclara-software,0e011336-4126-f9cc-9d95-e406686d6d78,50416e3a-229a-a9d0-6aa3-1222754df534
+"Plains Group Holdings, L.P.",USA,TX,Houston,Houston,NYSE,PAGP,2013-10-16,,,,https://www.crunchbase.com/organization/plains-gp-holdings-lp,5be6e26b-f3b5-aa25-171f-41b4849254a9,898fece7-8bf0-75c9-e794-2742d2230cc3
+Springleaf Holdings,USA,IN,Louisville,Evansville,NYSE,LEAF,2013-10-16,,,,https://www.crunchbase.com/organization/springleaf-holdings,edc4704b-a904-a596-c2f2-44b8ff37699a,765a4624-73b6-d978-b8b5-e5a98a718ab3
+Veeva,USA,CA,SF Bay Area,Pleasanton,NYSE,VEEV,2013-10-16,260900000,,,https://www.crunchbase.com/organization/veeva,8482623c-1557-2c73-a97c-fac121aab3ab,476cdc24-e4c3-14c4-9b92-97032674e2da
+Allergan,USA,NJ,Newark,Parsippany,,AGN,2013-10-11,,,,https://www.crunchbase.com/organization/allergan,78e4494f-600b-4031-442d-174c860b7ae4,3fd92a77-6fd0-6c41-86df-db8dc9fe09df
+Burlington Coat Factory,USA,NJ,NJ - Other,Burlington,NYSE,BURL,2013-10-11,2710000000,,,https://www.crunchbase.com/organization/burlington-coat-factory,83514add-3668-e3b2-6b9f-b61ca63d5836,ba6cf495-7cb8-b6c6-f965-c64349d605a4
+Columbia Property Trust,USA,GA,Atlanta,Atlanta,NYSE,CXP,2013-10-11,,,,https://www.crunchbase.com/organization/columbia-property-trust,edae1128-f6de-9ab9-06ec-ce8996701fac,9e5eb548-9675-92ba-10bf-c4754b353d58
+ReMax,USA,CO,Denver,Denver,,RMAX,2013-10-11,,,,https://www.crunchbase.com/organization/remax,682ea0ac-be90-ebde-5411-ad98a486ea39,f5edea4f-33ad-9d28-e9b3-5b54f6b80ef3
+Antero Resources,USA,CO,Denver,Denver,,AR,2013-10-10,,,,https://www.crunchbase.com/organization/antero-resources,e9e02bdf-427b-5a62-7ae6-dc751e98abb1,27936615-2781-04e6-14fa-afd337c4aa39
+Canadian Tire Corp.,,,,,TSX,CTC,2013-10-10,,,,https://www.crunchbase.com/organization/canadian-tire,de306670-6157-118f-527b-c2924b6c8692,44c3d1fe-e15e-4828-532f-19730fe281f8
+MacroGenics,USA,MD,"Washington, D.C.",Rockville,NASDAQ,MGNX,2013-10-10,,,,https://www.crunchbase.com/organization/macrogenics,3088c471-453b-1796-c1d7-1c91e598a6e9,91efe631-e7e0-4dfa-1f5e-5f101dd2d765
+Stonegate Mortgage,USA,IN,Indianapolis,Indianapolis,NYSE,SGM,2013-10-10,,,,https://www.crunchbase.com/organization/stonegate-mortgage,18e79d4a-f6f7-0959-ad9f-8f751105d4e6,1e4bc87c-d183-5a6e-d005-135f2dca5da8
+Western Refining Logistics,USA,TX,El Paso,El Paso,NYSE,WNRL,2013-10-10,,,,https://www.crunchbase.com/organization/western-refining-logistics,16d5dc35-d32c-7c74-0d47-63fc249fb2aa,deba425c-dd1c-1e3f-96ac-74f5049f036c
+LDR Holding,USA,TX,Austin,Austin,,LDRH,2013-10-09,,,,https://www.crunchbase.com/organization/ldr-holding,85bf82ee-7856-8db6-754a-3a399bb98a5b,a19894e6-fde7-2878-69ef-9c93e8bf57fd
+Quality Technology Services,USA,KS,Kansas City,Overland Park,,QTS,2013-10-09,,,,https://www.crunchbase.com/organization/quality-technology-services,d6db3bf8-b245-f4bf-36a6-314cb36ebe69,27c257a6-9117-8e43-c683-4209d52005a8
+SFX Entertainment,USA,NY,New York City,New York,,SFXE,2013-10-09,,,,https://www.crunchbase.com/organization/sfx-entertainment,5a1e8713-f892-454d-ef9f-fe390ab3bc7d,767fba43-e72f-787b-837c-03a6c8a99835
+Cherry Hill Mortgage Investment Corporation,USA,NJ,NJ - Other,Moorestown,NYSE,CHMI,2013-10-07,,,,https://www.crunchbase.com/organization/cherry-hill-mortgage-investment-corporation,c5d049ed-da82-d32e-2b04-cec6f3f0de24,b2fbc147-ea72-4bd2-cdd9-b3a9ccacfdc0
+OCI Partners LP,USA,TX,TX - Other,Nederland,NYSE,OCIP,2013-10-07,,,,https://www.crunchbase.com/organization/oci-partners-lp,430f5947-def5-4b63-a719-9ecd09895f1c,a8d3b96d-2213-636e-5165-72139cf9d442
+MetaStat,USA,NJ,Newark,Montclair,,MTST,2013-10-04,,,,https://www.crunchbase.com/organization/metastat,f1e4d97b-31e5-619a-94dd-792da3054e56,c871052b-d990-48ae-49c9-6af5120b682f
+OCI Partners LP,USA,TX,TX - Other,Nederland,NYSE,OCIP,2013-10-04,,,,https://www.crunchbase.com/organization/oci-partners-lp,0f37f882-975f-e801-5cbf-5f1439f95bd5,a8d3b96d-2213-636e-5165-72139cf9d442
+Potbelly Sandwich Works,USA,IL,Chicago,Chicago,NASDAQ,PBPB,2013-10-04,,,,https://www.crunchbase.com/organization/potbelly-sandwich-works,4b4afddd-4f87-c831-2a5d-efd361ee6f1a,7d7f49c2-55f1-7a02-c8b9-2723422b6f5e
+Empire State Realty Trust,,,,,NYSE,ESRT,2013-10-03,,,,https://www.crunchbase.com/organization/empire-state-realty-trust,04b4313a-1c12-adac-f655-6dea952fb24e,fb7ccb26-0d76-d6fb-771a-fca4c682361c
+LifeLock,USA,AZ,Phoenix,Tempe,NYSE,LOCK,2013-10-03,776775267,,,https://www.crunchbase.com/organization/lifelock,25a0d812-231d-4373-a815-9cb6a390804b,b93d25ff-cf38-929e-57a6-b40bf77db9ca
+Actavis,USA,NJ,Newark,Parsippany,,ACT,2013-10-02,,,,https://www.crunchbase.com/organization/actavis,4393cc7b-88ef-8d2b-1a92-3cbfa9248fac,7b8a066b-02cf-bda8-8537-05fd54f3607b
+Burlington Stores,USA,NJ,NJ - Other,Burlington,NYSE,BURL,2013-10-02,,,,https://www.crunchbase.com/organization/burlington-stores,532afcd6-7c28-d114-2f50-d1636a04d17d,85852f3f-3599-a33e-97ad-c1d30428ab73
+W. P. Carey,USA,NY,New York City,New York,,WPC,2013-10-02,,,,https://www.crunchbase.com/organization/w-p-carey,4b30244a-8fa6-b314-fcae-5b707deeb290,d4c15d7c-ff0a-5d3a-7318-1995aae7de8e
+Benitec Ltd,AUS,,Melbourne,Melbourne,ASX,BLT.AX,2013-10-01,,,,https://www.crunchbase.com/organization/benitec-ltd,2ac66b14-d218-f208-5e77-2bf4f533841e,b1eda2b0-011f-4ee7-c367-5626eb36a268
+CNH Industrial N.V.,GBR,,London,Basildon,,CNHI,2013-10-01,,,,https://www.crunchbase.com/organization/cnh-industrial-n-v,1c2d5ff1-28b9-dbad-dce6-caaef2980fd2,baf65626-a1ac-bffe-288e-390b15331409
+Fate Therapeutics,USA,CA,San Diego,La Jolla,,FATE,2013-10-01,,,,https://www.crunchbase.com/organization/fate-therapeutics,6ecbf61a-6ccc-2094-53eb-e4d182deb374,53c63fba-e48b-b2e3-ed8f-51cf6dfbe114
+Premier,USA,NC,Charlotte,Charlotte,,PINC,2013-09-27,,,,https://www.crunchbase.com/organization/premier,e3a317b5-bbad-eecc-3907-3cb124009f19,2e00a005-ec25-49e4-52e7-16540c46bf13
